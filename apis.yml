@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://pps.tv', status: 301, note: 'declared website redirects to https://suike.cn/pcw — a different registrable domain (pps.tv -> suike.cn), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pps.png
 name: PPS (pps.tv)
 description: 'PPS (pps.tv), originally the PPStream peer-to-peer online-video client,
